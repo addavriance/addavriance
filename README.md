@@ -24,5 +24,6 @@ Now I mostly deal with algorithmization and automation of various processes.
 ## Projects
 - [VK Covers](https://github.com/addavriance/VKex): VK Covers is a browser extension that allows users to set animated covers on their VK profiles, bringing a dynamic and personalized touch to their online presence.
 
-## Ongoing Project
+## Ongoing Projects
 - [Problem.net](https://t.me/problemdotnet_bot): An ongoing project(still TgBot) focused on tackling challenging problems in the field of computer science, with an aim to provide innovative solutions.
+- [Enhanced Falling Trees](https://github.com/addavriance/EnhancedFallingTrees) Minecraft mod on forge/fabric 1.20-1.20.4 that makes trees fall like in real life!
