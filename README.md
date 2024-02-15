@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 ## Get in Touch
 - VK: [@asynchronously](https://vk.com/asynchronously)
-- Discord: addavriance#4243
+- Discord: addavriance
 
 ## About Me
 I'm a programmer with expertise in multiple programming languages and technologies. I have a broad range of experience, including web development, software engineering, data analysis, and machine learning.
@@ -23,7 +23,7 @@ Now I mostly deal with algorithmization and automation of various processes.
 
 ## Projects
 - [VK Covers](https://github.com/addavriance/VKex): VK Covers is a browser extension that allows users to set animated covers on their VK profiles, bringing a dynamic and personalized touch to their online presence.
+- [Enhanced Falling Trees](https://github.com/addavriance/EnhancedFallingTrees) Minecraft mod on forge/fabric 1.20-1.20.4 that makes trees fall like in real life!
 
 ## Ongoing Projects
-- [Problem.net](https://t.me/problemdotnet_bot): An ongoing project(still TgBot) focused on tackling challenging problems in the field of computer science, with an aim to provide innovative solutions.
-- [Enhanced Falling Trees](https://github.com/addavriance/EnhancedFallingTrees) Minecraft mod on forge/fabric 1.20-1.20.4 that makes trees fall like in real life!
+- [Problem.net](https://t.me/problemdotnet_bot): An ongoing project focused on tackling challenging problems in the field of computer science, with an aim to provide innovative solutions.
