@@ -26,4 +26,4 @@ Now I mostly deal with algorithmization and automation of various processes.
 - [Enhanced Falling Trees](https://github.com/addavriance/EnhancedFallingTrees) Minecraft mod on forge/fabric 1.20-1.20.4 that makes trees fall like in real life!
 
 ## Ongoing Projects
-- [Problem.net](https://t.me/problemdotnet_bot): An ongoing project focused on tackling challenging problems in the field of computer science, with an aim to provide innovative solutions.
+- [RKSI-app](https://tomioka.ru): An ongoing project, app that provides convenient access and management of college(currenty RKSI) schedules.
