@@ -24,6 +24,3 @@ Now I mostly deal with algorithmization and automation of various processes.
 ## Projects
 - [VK Covers](https://github.com/addavriance/VKex): VK Covers is a browser extension that allows users to set animated covers on their VK profiles, bringing a dynamic and personalized touch to their online presence.
 - [Enhanced Falling Trees](https://github.com/addavriance/EnhancedFallingTrees) Minecraft mod on forge/fabric 1.20-1.20.4 that makes trees fall like in real life!
-
-## Ongoing Projects
-- [RKSI-app](https://tomioka.ru/register): An ongoing project, app that provides convenient access and management of college(currenty RKSI) schedules.
