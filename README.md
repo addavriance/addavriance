@@ -17,10 +17,8 @@ Welcome to my GitHub profile!
 - Discord: addavriance
 
 ## About Me
-I'm a programmer with expertise in multiple programming languages and technologies. I have a broad range of experience, including web development, software engineering, data analysis, and machine learning.
+I’m a developer who mostly works on frontend and backend stuff, but I also enjoy tinkering with Java in my free time, building all sorts of little projects. I’ve dabbled in a bit of everything—web development, automation, data analysis, and even some machine learning.
 
-Now I mostly deal with algorithmization and automation of various processes.
-
-## Projects
-- [VK Covers](https://github.com/addavriance/VKex): VK Covers is a browser extension that allows users to set animated covers on their VK profiles, bringing a dynamic and personalized touch to their online presence.
+## Projects (ongoing)
+- [TerraMath](https://github.com/addavriance/TerraMath) Minecraft mod on forge/fabric 1.20-1.20.4 that allows you to generate infinitely different worlds using math functions!
 - [Enhanced Falling Trees](https://github.com/addavriance/EnhancedFallingTrees) Minecraft mod on forge/fabric 1.20-1.20.4 that makes trees fall like in real life!
