@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=1000&color=7A3EFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+addavriance+%F0%9F%91%8B;Full-stack+Dev+%7C+Minecraft+Modder;React+%7C+Python+%7C+Java+Enjoyer" alt="Animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=1000&color=4287f5&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+addavriance+%F0%9F%91%8B;Full-stack+Dev+%7C+Minecraft+Modder;React+%7C+Python+%7C+Java+Enjoyer" alt="Animated header" />
 </div>
 
 ---
