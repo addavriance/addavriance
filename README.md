@@ -64,7 +64,7 @@ Realistic tree falling mechanics with custom effects and sound design
 
 ### 🤝 Connect With Me
 
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/addavriance)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JgKTZEtNkg)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/addavriance/)
 
 ---
