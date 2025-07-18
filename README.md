@@ -46,7 +46,7 @@
 
 ### 🎮 Active Projects
 
-#### 🌳 [Linkoo](https://linkoo.dev/) 
+#### 🔗 [Linkoo](https://linkoo.dev/) 
 [![Project repository](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&label=Project)](https://github.com/addavriance/linkoo)
 ```
 Modern platform for creating interactive digital cards
