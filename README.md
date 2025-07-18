@@ -46,6 +46,19 @@
 
 ### 🎮 Active Projects
 
+#### 🌳 [Linkoo](https://linkoo.dev/) 
+[![Project repository](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&label=Project)](https://github.com/addavriance/linkoo)
+```
+Modern platform for creating interactive digital cards
+```
+
+#### 🎵 [Musicgram](https://addavriance.github.io/musicgram-frontend)
+[![Frontend repository](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&label=Frontend)](https://github.com/addavriance/musicgram-frontend)
+[![Backend repository](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&label=Backend)](https://github.com/addavriance/musicgram-backend)
+``` 
+Musicgram connects Telegram and Spotify, letting users share and view what they're listening to.
+```
+
 #### 🌳 [TerraMath](https://github.com/addavriance/TerraMath) 
 [![Modrinth](https://img.shields.io/modrinth/dt/GnBLgjvP?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/mod/terra-math)
 [![Curseforge](https://img.shields.io/curseforge/dt/1149108?style=for-the-badge&logo=curseforge&label=Curseforge&labelColor=black&color=red)](https://www.curseforge.com/minecraft/mc-mods/terra-math)
