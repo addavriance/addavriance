@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### **Web Development**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <table align="center">
   <tr>
@@ -44,7 +44,7 @@
 
 ---
 
-### 🎮 Active Projects
+### Active Projects
 
 #### 🔗 [Linkoo](https://linkoo.dev/) 
 [![Project repository](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&label=Project)](https://github.com/addavriance/linkoo)
@@ -52,14 +52,14 @@
 Modern platform for creating interactive digital cards
 ```
 
-#### 🌳 [TerraMath](https://github.com/addavriance/TerraMath) 
+#### [TerraMath](https://github.com/addavriance/TerraMath) 
 [![Modrinth](https://img.shields.io/modrinth/dt/GnBLgjvP?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/mod/terra-math)
 [![Curseforge](https://img.shields.io/curseforge/dt/1149108?style=for-the-badge&logo=curseforge&label=Curseforge&labelColor=black&color=red)](https://www.curseforge.com/minecraft/mc-mods/terra-math)
 ``` 
 Infinitely generated worlds using mathematical functions for Minecraft 1.20+
 ```
 
-#### 🪓 [Enhanced Falling Trees](https://github.com/addavriance/EnhancedFallingTrees) 
+#### [Enhanced Falling Trees](https://github.com/addavriance/EnhancedFallingTrees) 
 [![Modrinth](https://img.shields.io/modrinth/dt/UJMd74i4?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/mod/enhanced-falling-trees)
 [![Curseforge](https://img.shields.io/curseforge/dt/1078653?style=for-the-badge&logo=curseforge&label=Curseforge&labelColor=black&color=red)](https://www.curseforge.com/minecraft/mc-mods/enhanced-falling-trees)
 ``` 
@@ -68,14 +68,14 @@ Realistic tree falling mechanics with custom effects and sound design
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JgKTZEtNkg)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/addavriance/)
 
 ---
 
-### 🧑💻 About Me
+### About Me
 
 ```typescript
 const addavriance = {
